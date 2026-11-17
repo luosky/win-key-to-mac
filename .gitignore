@@ -1,0 +1,17 @@
+# AutoHotkey
+*.bak
+*.exe
+*.ahk.compiled
+
+# Local overrides (keep your private edits out of the repo)
+config/settings.local.ahk
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
